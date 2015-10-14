@@ -1,2 +1,4 @@
-# hello-world
-first repository
+hello-world
+============
+
+Hello, I'm the captain
